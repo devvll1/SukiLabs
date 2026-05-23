@@ -2,6 +2,8 @@
 
 SukiLabs is an Expo React Native app for managing installment phone customers. It stores records locally with SQLite, supports customer/account/payment tracking, and can back up data to Supabase after Google sign-in.
 
+Created to help my siblings small business.
+
 ## Features
 
 - Customer and installment account management
